@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-belmiro-a479a224b/)
 
 ![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoD4v&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoD4v&layout=compact)](https://github.com/RodrigoD4v/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoD4v&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Tecnologias que utilizo
