@@ -23,6 +23,3 @@
  
  
  <!--![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;-->
-
-
-Um adimirador da tecnologia e apaxionado por mudar a vida das pessoas por meio da programação
